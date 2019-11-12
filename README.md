@@ -28,3 +28,6 @@ Feel free to leave any feedback [here](https://github.com/naofireblade/clear-the
 
 ## Known problems
 - Text in the logbook is barely readable (not fixable at the moment)
+
+## Attributions
+- Background Image based on an image from [visme](https://visme.co/blog/simple-backgrounds/)

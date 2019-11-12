@@ -59,3 +59,9 @@ clear-dark:
 
   # Shadows
   ha-card-box-shadow: 'inset 0px 0px 0px 1px var(--border-color)'
+
+  # HACS
+  hacs-badge-color: 'var(--accent-color)'                                         # New Badge
+  hacs-status-installed: 'var(--text-color)'                                      # Installed Icon
+  hacs-status-pending-restart: 'var(--text-dark-color)'                           # Restart Icon
+  hacs-status-pending-update: 'var(--accent-color)'                               # Update Icon

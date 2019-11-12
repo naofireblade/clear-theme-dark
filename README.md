@@ -17,14 +17,14 @@ Feel free to leave any feedback [here](https://github.com/naofireblade/clear-the
 3. Restart Home Assistant
 4. Enable the theme in your user profile (bottom left in Home Assistant)
  
-### Screenshot
+## Screenshot
+![image](https://user-images.githubusercontent.com/12081369/68703769-8b119600-058b-11ea-9cf3-2aa01482e92f.png)
 
-
-### Optional custom cards from the screenshot
+## Optional custom cards from the screenshot
 - [Button Card](https://github.com/rodrigofragadf/lovelace-cards/tree/master/tiles-card)
 - [Animated Weather Card](https://github.com/bramkragten/custom-ui/tree/master/weather-card)
 - [Graph Card](https://github.com/kalkih/mini-graph-card)
 - [Slim Header](https://github.com/maykar/compact-custom-header/)
 
-### Known problems
+## Known problems
 - Text in the logbook is barely readable (not fixable at the moment)

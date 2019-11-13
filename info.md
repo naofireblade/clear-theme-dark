@@ -21,11 +21,11 @@
 
 ## Known problems
 1. Text in the logbook is barely readable (not fixable at the moment)
-
-> Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme/issues).
+2. Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme/issues).
 
 ## Donations
 If you like this theme, I would be forever grateful for your support:
+
 
 
 <a href="https://www.buymeacoffee.com/2D1nUuK36" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>

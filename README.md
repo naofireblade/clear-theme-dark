@@ -4,12 +4,10 @@
 
 This is a theme for [Home Assistant](https://www.home-assistant.io/). You can install it [manually](#installation) or via [HACS](https://hacs.xyz/).
 
-Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme-dark/issues).
-
 ## Installation
 
 1. Copy the folders `themes` and `www` into your home-assistant folder
-2. Add this under section `frontend` in your `config.yaml`:
+2. Add this under the section `frontend` in your `config.yaml`:
     ```
     frontend:
       themes: !include_dir_merge_named themes
@@ -28,6 +26,8 @@ Feel free to leave any feedback [here](https://github.com/naofireblade/clear-the
 
 ## Known problems
 - Text in the logbook is barely readable (not fixable at the moment)
+
+> Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme-dark/issues).
 
 ## Attributions
 - Background Image based on an image from [visme](https://visme.co/blog/simple-backgrounds/)

@@ -29,7 +29,7 @@ clear-dark:
   primary-background-color: 'var(--background-color)'                             # Background (also title background in left menu)
   mdc-theme-primary: 'var(--accent-medium-color)'                                 # Action Buttons (save, restart etc.)
   card-background-color: 'var(--background-card-color)'                           # Entity Registry Background
-  link-color: 'var(--text-dark-color)'                                            # Hyperlink color
+  link-text-color: 'var(--text-dark-color)'                                       # Hyperlink color
 
   # Card
   paper-card-background-color: 'var(--background-card-color)'                     # Background

@@ -20,8 +20,10 @@
 4. [Slim Header](https://github.com/maykar/compact-custom-header/)
 
 ## Known problems
-1. Text in the logbook is barely readable (not fixable at the moment)
-2. Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme/issues).
+1. Recorder throws error when saving the theme because of the embedded background image  
+ **Solution:** Download the [background image](https://github.com/naofireblade/clear-theme-dark/raw/master/www/clear-dark.jpg), place into folder `/www/` and change the 3rd line in the file `/themes/clear-dark.yaml` to `  lovelace-background: 'center / cover no-repeat url(/local/clear-dark.jpg) fixed'`
+
+> Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme-dark/issues).
 
 ## Donations
 If you like this theme, I would be forever grateful for your support:
